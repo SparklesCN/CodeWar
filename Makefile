@@ -5,6 +5,4 @@ publish:
 	git add .
 	git commit -m "auto published"
 	git push
-
-update:
-	cp -r _book/* .
+	git checkout master
