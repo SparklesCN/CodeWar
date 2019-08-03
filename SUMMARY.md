@@ -1,11 +1,11 @@
 * [Introduction](README.md)
 
-* [Stack & Queue (栈与队列)](Stack_Queue/README.md)
-	* [Stack with getMin](Stack_Queue/1_1.md)
-	* [Two Stacks Queue](Stack_Queue/1_2.md)
-	* [Recursively Reverse Stack](Stack_Queue/1_3.md)
-	* [Cat & Dog Problem](Stack_Queue/1_4.md)
-	* [Sort Stack by Stack](Stack_Queue/1_5.md)
+* [Stack & Queue (栈与队列)](chapter_1/README.md)
+	* [Stack with getMin](chapter_1/1_1.md)
+	* [Two Stacks Queue](chapter_1/1_2.md)
+	* [Recursively Reverse Stack](chapter_1/1_3.md)
+	* [Cat & Dog Problem](chapter_1/1_4.md)
+	* [Sort Stack by Stack](chapter_1/1_5.md)
 	
 
 
