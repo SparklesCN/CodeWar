@@ -14,3 +14,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# all code and compiled files
+*.java
+*.class
