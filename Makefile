@@ -4,7 +4,7 @@ publish:
 	git push
 	gitbook build
 	git checkout gh-pages
-	make update
+	cp -r _book/* .
 	git add .
 	git commit -m "auto published in gh-pages branch"
 	git push
