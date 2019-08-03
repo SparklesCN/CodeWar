@@ -1,6 +1,4 @@
 publish:
-	git add .
-	git commit -m "auto update data base in master branch"
 	git push
 	gitbook build
 	git checkout gh-pages
