@@ -4,7 +4,7 @@
         <description><![CDATA[记录 GitBook 的配置和一些插件的使用]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Aug 2019 12:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2019 12:23:01 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -19,15 +19,15 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[本章节含括基本的 栈 与 队列 的问题；]]></description>
-            <link>http://gitbook.sparklescn.com/Stack_Queue/README.html</link>
-            <guid isPermaLink="true">http://gitbook.sparklescn.com/Stack_Queue/README.html</guid>
+            <link>http://gitbook.sparklescn.com/chapter_1/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/chapter_1/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[Stack with getMin();]]></title>
             <description><![CDATA[设计两个Stack, 其中一个Stack用于正常存放数据，另一个Stack则单独存储当前Min值；]]></description>
-            <link>http://gitbook.sparklescn.com/Stack_Queue/1_1.html</link>
-            <guid isPermaLink="true">http://gitbook.sparklescn.com/Stack_Queue/1_1.html</guid>
+            <link>http://gitbook.sparklescn.com/chapter_1/1_1.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/chapter_1/1_1.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
@@ -39,27 +39,27 @@ Queue队列的特征是first in first out即先进先出;
 然后再将新数据push进栈_1底部，
 最后再依次将栈_2中数据pop回栈_1中；
 这样我们就在栈_1中模拟了队列的情况；]]></description>
-            <link>http://gitbook.sparklescn.com/Stack_Queue/1_2.html</link>
-            <guid isPermaLink="true">http://gitbook.sparklescn.com/Stack_Queue/1_2.html</guid>
+            <link>http://gitbook.sparklescn.com/chapter_1/1_2.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/chapter_1/1_2.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[test!!!]]></description>
-            <link>http://gitbook.sparklescn.com/Stack_Queue/1_3.html</link>
-            <guid isPermaLink="true">http://gitbook.sparklescn.com/Stack_Queue/1_3.html</guid>
+            <link>http://gitbook.sparklescn.com/chapter_1/1_3.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/chapter_1/1_3.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>http://gitbook.sparklescn.com/Stack_Queue/1_4.html</link>
-            <guid isPermaLink="true">http://gitbook.sparklescn.com/Stack_Queue/1_4.html</guid>
+            <link>http://gitbook.sparklescn.com/chapter_1/1_4.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/chapter_1/1_4.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>http://gitbook.sparklescn.com/Stack_Queue/1_5.html</link>
-            <guid isPermaLink="true">http://gitbook.sparklescn.com/Stack_Queue/1_5.html</guid>
+            <link>http://gitbook.sparklescn.com/chapter_1/1_5.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/chapter_1/1_5.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
     </channel>
