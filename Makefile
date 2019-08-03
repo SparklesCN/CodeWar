@@ -1,11 +1,11 @@
 publish:
+	git add .
+	git commit -m "auto update data base in master branch"
+	git push
 	gitbook build
 	git checkout gh-pages
 	make update
 	git add .
-	git commit -m "auto published"
+	git commit -m "auto published in gh-pages branch"
 	git push
 	git checkout master
-
-update:
-	cp -r _book/* .
