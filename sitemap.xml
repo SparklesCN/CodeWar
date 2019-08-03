@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>http://gitbook.sparklescn.com/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/Stack_Queue/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/Stack_Queue/1_1.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/Stack_Queue/1_2.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/Stack_Queue/1_3.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/Stack_Queue/1_4.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/Stack_Queue/1_5.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>
