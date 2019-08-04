@@ -1,3 +1,6 @@
 代码之争
+The CodeWar
 
-https://sparkles.gitbook.io/codewar/
+https://sparklescn.github.io/CodeWar/
+
+Auto GitBook Publish Script Using, check master branch for commit comments;
