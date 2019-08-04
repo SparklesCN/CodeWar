@@ -10,6 +10,9 @@ node_modules
 # Book build output
 _book
 
+# Test file and code
+_code
+
 # eBook build output
 *.epub
 *.mobi
