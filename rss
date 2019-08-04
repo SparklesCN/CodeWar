@@ -4,14 +4,15 @@
         <description><![CDATA[记录 GitBook 的配置和一些插件的使用]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Aug 2019 13:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2019 01:05:25 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
         <category><![CDATA[gitbook]]></category>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[代码之争]]></description>
+            <description><![CDATA[代码之争
+The CodeWar]]></description>
             <link>http://gitbook.sparklescn.com/</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
@@ -44,8 +45,8 @@ Queue队列的特征是first in first out即先进先出;
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[test again !!!]]></description>
+            <title><![CDATA[Reverse a Stack]]></title>
+            <description><![CDATA[Recursively reverse a stack;]]></description>
             <link>http://gitbook.sparklescn.com/chapter_1/1_3.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/chapter_1/1_3.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
