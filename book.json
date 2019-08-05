@@ -62,7 +62,7 @@
 
     "pluginsConfig": {
         "theme-default": {
-            "showLevel": true
+            "showLevel": false
         },
         "disqus": {
             "shortName": "codewar"
@@ -113,7 +113,7 @@
        },
         "tbfed-pagefooter": {
             "copyright": "Copyright © sparklscn.com 2019",
-            "modify_label": "该文件修订时间：",
+            "modify_label": "Last update：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "3-ba": {
@@ -123,9 +123,9 @@
             "wechat": "https://www.sparklescn.com/wp-content/uploads/2019/08/donate_wechat.jpg",
             "alipay": "https://www.sparklescn.com/wp-content/uploads/2019/08/donate_alipay.jpg",
             "title": "",
-            "button": "赏",
-            "alipayText": "支付宝打赏",
-            "wechatText": "微信打赏"
+            "button": "Donate",
+            "alipayText": "AliPay",
+            "wechatText": "WeChat"
         },
         "simple-page-toc": {
             "maxDepth": 3,
@@ -167,8 +167,8 @@
         },
 
         "rss": {
-            "title": "GitBook 使用教程",
-            "description": "记录 GitBook 的配置和一些插件的使用",
+            "title": "The CodeWar",
+            "description": "Record the CodeWar",
             "author": "Nathan Quan",
             "feed_url": "http://gitbook.sparklescn.com/rss",
             "site_url": "http://gitbook.sparklescn.com/",
