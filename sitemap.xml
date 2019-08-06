@@ -21,4 +21,20 @@
 <url> <loc>http://gitbook.sparklescn.com/collections/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://gitbook.sparklescn.com/collections/huawei/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://gitbook.sparklescn.com/collections/huawei/1/1.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/languages/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/languages/java/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/languages/python/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/languages/javaScript/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/languages/c/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/languages/cpp/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/languages/swift/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/languages/html5_css3/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/tools/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/tools/git/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/tools/docker/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/tools/mySql/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/gameDevelopment/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/gameDevelopment/unity3D/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://gitbook.sparklescn.com/knowledge/gameDevelopment/unreal4/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>

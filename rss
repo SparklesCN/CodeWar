@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Aug 2019 13:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2019 13:47:19 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -161,6 +161,118 @@ Queue队列的特征是first in first out即先进先出;
             <description><![CDATA[给出一个字符串，将重复的字符去除，仅保留第一次出现的字符，且保持去重后的字符在原字符串中的顺序不变。]]></description>
             <link>http://gitbook.sparklescn.com/collections/huawei/1/1.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/1/1.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/languages/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/languages/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/languages/java/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/languages/java/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/languages/python/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/languages/python/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/languages/javaScript/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/languages/javaScript/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/languages/c/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/languages/c/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/languages/cpp/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/languages/cpp/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/languages/swift/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/languages/swift/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/languages/html5_css3/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/languages/html5_css3/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/tools/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/tools/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/tools/git/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/tools/git/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/tools/docker/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/tools/docker/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/tools/mySql/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/tools/mySql/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/gameDevelopment/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/gameDevelopment/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/gameDevelopment/unity3D/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/gameDevelopment/unity3D/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/gameDevelopment/unreal4/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/gameDevelopment/unreal4/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
     </channel>
