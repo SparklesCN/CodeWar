@@ -27,3 +27,9 @@
 
 	* [Difficulty: HARD](leetcode/hard/README.md)
 		* [4. Median of Two Sorted Arrays](leetcode/hard/4.md)
+
+### Collections
+
+* [Collections](collections/README.md)
+	* [华为](collections/huawei/README.md)
+		* [剔除字符串中重复字符](collections/huawei/1/1.md)
