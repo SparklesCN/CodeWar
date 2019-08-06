@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Aug 2019 13:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2019 14:03:25 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -168,6 +168,20 @@ Queue队列的特征是first in first out即先进先出;
             <description><![CDATA[TODO]]></description>
             <link>http://gitbook.sparklescn.com/knowledge/README.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/dataStructures/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/dataStructures/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/knowledge/algorithems/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/knowledge/algorithems/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
