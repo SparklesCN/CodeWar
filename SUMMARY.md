@@ -33,3 +33,22 @@
 * [Collections](collections/README.md)
 	* [华为](collections/huawei/README.md)
 		* [剔除字符串中重复字符](collections/huawei/1/1.md)
+
+### Basic Knowledge
+
+* [Basic Knowledge](knowledge/README.md)
+	* [Languages](knowledge/languages/README.md)
+		* [Java](knowledge/languages/java/README.md)
+		* [Python](knowledge/languages/python/README.md)
+		* [JavaScript](knowledge/languages/javaScript/README.md)
+		* [C](knowledge/languages/c/README.md)
+		* [C++](knowledge/languages/cpp/README.md)
+		* [Swift](knowledge/languages/swift/README.md)
+		* [HTML5 && CSS3](knowledge/languages/html5_css3/README.md)
+	* [Tools](knowledge/tools/README.md)
+		* [Git](knowledge/tools/git/README.md)
+		* [Docker](knowledge/tools/docker/README.md)
+		* [MySQL](knowledge/tools/mySql/README.md)
+	* [Game Development](knowledge/gameDevelopment/README.md)
+		* [Unity3D](knowledge/gameDevelopment/unity3D/README.md)
+		* [Unreal 4](knowledge/gameDevelopment/unreal4/README.md)
