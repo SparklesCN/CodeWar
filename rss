@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Aug 2019 12:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2019 13:23:08 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -140,6 +140,27 @@ Queue队列的特征是first in first out即先进先出;
             <description><![CDATA[TODO:]]></description>
             <link>http://gitbook.sparklescn.com/leetcode/hard/4.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/leetcode/hard/4.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Remove Repeat Chars in String]]></title>
+            <description><![CDATA[给出一个字符串，将重复的字符去除，仅保留第一次出现的字符，且保持去重后的字符在原字符串中的顺序不变。]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/1/1.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/1/1.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
     </channel>
