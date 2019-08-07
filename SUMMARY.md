@@ -20,7 +20,7 @@
 
 * [LeetCode](leetcode/README.md)
 	* [Difficulty: EASY](leetcode/easy/README.md)
-		* [1. Two Sum](leetcode/easy/1.md)
+		* [1. Two Sum](leetcode/easy/1/1.md)
 
 	* [Difficulty: MEDIUM](leetcode/medium/README.md)
 		* [2. Add Two Numbers](leetcode/medium/2.md)
