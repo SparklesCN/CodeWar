@@ -1,0 +1,4 @@
+09/09/2019
+	selection sort;
+	bubble sort;
+	insert sort;
