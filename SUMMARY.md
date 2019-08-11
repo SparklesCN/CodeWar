@@ -32,7 +32,27 @@
 
 * [Collections](collections/README.md)
 	* [华为](collections/huawei/README.md)
-		* [剔除字符串中重复字符](collections/huawei/1/1.md)
+		* [剔除字符串中重复字符](collections/huawei/0/README.md)
+		* [字符串最后一个单词的长度](collections/huawei/1/README.md)
+		* [计算目标字符个数](collections/huawei/2/README.md)
+		* [随机数去重和排序](collections/huawei/3/README.md)
+		* [](collections/huawei/4/README.md)
+		* [](collections/huawei/5/README.md)
+		* [](collections/huawei/6/README.md)
+		* [](collections/huawei/7/README.md)
+		* [](collections/huawei/8/README.md)
+		* [](collections/huawei/9/README.md)
+		* [](collections/huawei/10/README.md)
+		* [](collections/huawei/11/README.md)
+		* [](collections/huawei/12/README.md)
+		* [](collections/huawei/13/README.md)
+		* [](collections/huawei/14/README.md)
+		* [](collections/huawei/15/README.md)
+		* [](collections/huawei/16/README.md)
+		* [](collections/huawei/17/README.md)
+		* [](collections/huawei/18/README.md)
+		* [](collections/huawei/19/README.md)
+		* [](collections/huawei/20/README.md)
 
 ### Basic Knowledge
 
