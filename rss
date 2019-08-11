@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Aug 2019 15:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Aug 2019 00:48:28 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -159,8 +159,32 @@ Queue队列的特征是first in first out即先进先出;
         <item>
             <title><![CDATA[Remove Repeat Chars in String]]></title>
             <description><![CDATA[给出一个字符串，将重复的字符去除，仅保留第一次出现的字符，且保持去重后的字符在原字符串中的顺序不变。]]></description>
-            <link>http://gitbook.sparklescn.com/collections/huawei/1/1.html</link>
-            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/1/1.html</guid>
+            <link>http://gitbook.sparklescn.com/collections/huawei/0/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/0/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Count the length of last word]]></title>
+            <description><![CDATA[str.split()方法:
+str = "hello world";
+str.split
+-> return type: String[]
+{hello, world}]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/1/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/1/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[计算目标字符个数]]></title>
+            <link>http://gitbook.sparklescn.com/collections/huawei/2/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/2/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[随机数去重和排序]]></title>
+            <description><![CDATA[Input Param]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/3/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/3/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
