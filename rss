@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Aug 2019 01:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2019 12:09:46 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -185,6 +185,30 @@ str.split
             <description><![CDATA[Input Param]]></description>
             <link>http://gitbook.sparklescn.com/collections/huawei/3/README.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/3/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[字符串分割]]></title>
+            <link>http://gitbook.sparklescn.com/collections/huawei/4/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/4/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[进制转换]]></title>
+            <description><![CDATA[关于利用java内置库将非十进制数字转化到十进制：
+举例：转化 "0xA" -> 10
+Integer.parseInt("A", 16); -> 10]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/5/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/5/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[质数因子]]></title>
+            <description><![CDATA[如何将char转换为String:
+1. String str = 'c' + "";
+2. String str = Character.toString('c');]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/6/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/6/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
