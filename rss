@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Aug 2019 13:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2019 12:31:52 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -209,6 +209,39 @@ Integer.parseInt("A", 16); -> 10]]></description>
 2. String str = Character.toString('c');]]></description>
             <link>http://gitbook.sparklescn.com/collections/huawei/6/README.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/6/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[取近似值]]></title>
+            <link>http://gitbook.sparklescn.com/collections/huawei/7/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/7/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[合并表记录]]></title>
+            <description><![CDATA[None]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/8/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/8/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[提取不重复的整数]]></title>
+            <description><![CDATA[None；]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/9/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/9/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[字符个数统计]]></title>
+            <link>http://gitbook.sparklescn.com/collections/huawei/10/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/10/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[数字颠倒]]></title>
+            <description><![CDATA[倒序遍历注意i遍历范围；]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/11/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/11/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
