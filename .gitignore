@@ -20,7 +20,7 @@ _code
 
 # all code and compiled files
 *.java
-*.class
+#*.class
 
 # IntelliJ IDEA
 .idea
