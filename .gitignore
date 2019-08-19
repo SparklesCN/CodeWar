@@ -19,8 +19,8 @@ _code
 *.pdf
 
 # all code and compiled files
-*.java
-#*.class
+#*.java
+*.class
 
 # IntelliJ IDEA
 .idea
