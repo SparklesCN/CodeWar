@@ -44,10 +44,23 @@
 class Solution {
     public int reverse(int x) {
         boolean isNeg = x < 0 ? true : false;
-        String str = x+;
-        // if is Not Positive Num
+        String str = x+"";
         if (isNeg) {
-        	
+            str = str.substring(1);
         }
+        StringBuffer sBuffer = new StringBuffer();
+        for (int i = str.length() - 1; i >= 0; i--) {
+            sBuffer.append(str.charAt(i));
+        }
+        if (isNeg) {
+            sBuffer.insert(0, '-');
+        }
+        try {
+            return Integer.parseInt(sBuffer.toString());
+        }
+        catch (Exception e) {
+            return 0;
+        }
+        
     }
 }
