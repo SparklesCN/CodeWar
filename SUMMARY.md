@@ -20,7 +20,7 @@
 
 * [LeetCode](leetcode/README.md)
 	* [Difficulty: EASY](leetcode/easy/README.md)
-		* [1. Two Sum 两数之和](leetcode/easy/1/1.md)
+		* [1. Two Sum 两数之和](leetcode/easy/1/README.md)
 		* [7. Reverse Integer 整数反转](leetcode/easy/7/README.md)
 		* [20. Valid Parentheses 有效的括号](leetcode/easy/20/README.md)
 		* [53. Maximum Subarray 最大子序和](leetcode/easy/53/README.md)
