@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Aug 2019 12:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2019 12:25:44 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -95,7 +95,7 @@ Queue队列的特征是first in first out即先进先出;
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[TODO:]]></description>
+            <description><![CDATA[[Operation Commands]:]]></description>
             <link>http://gitbook.sparklescn.com/leetcode/README.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/leetcode/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
@@ -108,10 +108,31 @@ Queue队列的特征是first in first out即先进先出;
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[[1] Two Sum]]></title>
-            <description><![CDATA[https://leetcode.com/problems/two-sum/description/]]></description>
-            <link>http://gitbook.sparklescn.com/leetcode/easy/1/1.html</link>
-            <guid isPermaLink="true">http://gitbook.sparklescn.com/leetcode/easy/1/1.html</guid>
+            <title><![CDATA[[7] Reverse Integer 整数反转]]></title>
+            <description><![CDATA[给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。]]></description>
+            <link>http://gitbook.sparklescn.com/leetcode/easy/7/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/leetcode/easy/7/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[[20] Valid Parentheses 有效的括号]]></title>
+            <description><![CDATA[给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。]]></description>
+            <link>http://gitbook.sparklescn.com/leetcode/easy/20/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/leetcode/easy/20/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[[53] Maximum Subarray 最大子序和]]></title>
+            <description><![CDATA[给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。]]></description>
+            <link>http://gitbook.sparklescn.com/leetcode/easy/53/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/leetcode/easy/53/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[[344] Reverse String 反转字符串]]></title>
+            <description><![CDATA[编写一个函数，其作用是将输入的字符串反转过来。输入字符串以字符数组 char[] 的形式给出。]]></description>
+            <link>http://gitbook.sparklescn.com/leetcode/easy/344/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/leetcode/easy/344/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
