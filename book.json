@@ -122,8 +122,8 @@
         "donate": {
             "wechat": "https://www.sparklescn.com/wp-content/uploads/2019/08/donate_wechat.jpg",
             "alipay": "https://www.sparklescn.com/wp-content/uploads/2019/08/donate_alipay.jpg",
-            "title": "Buy me a coffee",
-            "button": "Buy me a coffee",
+            "title": "Support Me",
+            "button": "Support Me",
             "alipayText": "AliPay",
             "wechatText": "WeChat"
         },
