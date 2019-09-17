@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Sep 2019 16:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2019 17:37:56 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -298,6 +298,35 @@ Integer.parseInt("A", 16); -> 10]]></description>
             <description><![CDATA[输入：]]></description>
             <link>http://gitbook.sparklescn.com/collections/huawei/15/README.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/15/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[密码验证合格程序]]></title>
+            <description><![CDATA[None;]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/16/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/16/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[简单密码]]></title>
+            <description><![CDATA[假设渊子原来一个BBS上的密码为zvbo9441987,为了方便记忆，他通过一种算法把这个密码变换成YUANzhi1987，这个密码是他的名字和出生年份，怎么忘都忘不了，而且可以明目张胆地放在显眼的地方而不被别人知道真正的密码。]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/17/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/17/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[汽水瓶]]></title>
+            <description><![CDATA[None；]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/18/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/18/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[删除字符串中出现次数最少的字符]]></title>
+            <description><![CDATA[String s1="javatpoint is a very good website";
+String replaceString=s1.replace('a','e');//replaces all occurrences of 'a' to 'e']]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/19/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/19/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>

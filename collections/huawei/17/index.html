@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>数字颠倒 · The CodeWar</title>
+        <title>简单密码 · The CodeWar</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -138,10 +138,10 @@
     <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../12/" />
+    <link rel="next" href="../18/" />
     
     
-    <link rel="prev" href="../10/" />
+    <link rel="prev" href="../16/" />
     
 
     
@@ -745,9 +745,9 @@
             
         </li>
     
-        <li class="chapter active" data-level="4.1.1.12" data-path="./">
+        <li class="chapter " data-level="4.1.1.12" data-path="../11/">
             
-                <a href="./">
+                <a href="../11/">
             
                     
                     数字颠倒
@@ -823,9 +823,9 @@
             
         </li>
     
-        <li class="chapter " data-level="4.1.1.18" data-path="../17/">
+        <li class="chapter active" data-level="4.1.1.18" data-path="./">
             
-                <a href="../17/">
+                <a href="./">
             
                     
                     简单密码
@@ -1167,7 +1167,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="../../.." >数字颠倒</a>
+        <a href="../../.." >简单密码</a>
     </h1>
 </div>
 
@@ -1182,59 +1182,119 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <div id="anchor-navigation-ex-navbar"><i class="fa fa-anchor"></i><ul><li><a href="#&#x6570;&#x5B57;&#x98A0;&#x5012;">&#x6570;&#x5B57;&#x98A0;&#x5012;</a></li></ul></div><a href="#&#x6570;&#x5B57;&#x98A0;&#x5012;" id="anchorNavigationExGoTop"><i class="fa fa-arrow-up"></i></a><h1 id="&#x6570;&#x5B57;&#x98A0;&#x5012;"><a name="&#x6570;&#x5B57;&#x98A0;&#x5012;" class="anchor-navigation-ex-anchor" href="#&#x6570;&#x5B57;&#x98A0;&#x5012;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x6570;&#x5B57;&#x98A0;&#x5012;</h1>
+                                <div id="anchor-navigation-ex-navbar"><i class="fa fa-anchor"></i><ul><li><a href="#&#x7B80;&#x5355;&#x5BC6;&#x7801;">&#x7B80;&#x5355;&#x5BC6;&#x7801;</a></li></ul></div><a href="#&#x7B80;&#x5355;&#x5BC6;&#x7801;" id="anchorNavigationExGoTop"><i class="fa fa-arrow-up"></i></a><h1 id="&#x7B80;&#x5355;&#x5BC6;&#x7801;"><a name="&#x7B80;&#x5355;&#x5BC6;&#x7801;" class="anchor-navigation-ex-anchor" href="#&#x7B80;&#x5355;&#x5BC6;&#x7801;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x7B80;&#x5355;&#x5BC6;&#x7801;</h1>
 <h3 id="source-hua-wei"><a name="source-hua-wei" class="anchor-navigation-ex-anchor" href="#source-hua-wei"><i class="fa fa-link" aria-hidden="true"></i></a>[Source: HUA WEI]</h3>
 <h3 id="problem-description"><a name="problem-description" class="anchor-navigation-ex-anchor" href="#problem-description"><i class="fa fa-link" aria-hidden="true"></i></a>[Problem Description]</h3>
-<pre class="language-"><code>&#x8F93;&#x5165;&#x4E00;&#x4E2A;&#x6574;&#x6570;&#xFF0C;&#x5C06;&#x8FD9;&#x4E2A;&#x6574;&#x6570;&#x4EE5;&#x5B57;&#x7B26;&#x4E32;&#x7684;&#x5F62;&#x5F0F;&#x9006;&#x5E8F;&#x8F93;&#x51FA;
+<pre class="language-"><code>&#x5BC6;&#x7801;&#x662F;&#x6211;&#x4EEC;&#x751F;&#x6D3B;&#x4E2D;&#x975E;&#x5E38;&#x91CD;&#x8981;&#x7684;&#x4E1C;&#x4E1C;&#xFF0C;&#x6211;&#x4EEC;&#x7684;&#x90A3;&#x4E48;&#x4E00;&#x70B9;&#x4E0D;&#x80FD;&#x8BF4;&#x7684;&#x79D8;&#x5BC6;&#x5C31;&#x5168;&#x9760;&#x5B83;&#x4E86;&#x3002;&#x54C7;&#x54C8;&#x54C8;. &#x63A5;&#x4E0B;&#x6765;&#x6E0A;&#x5B50;&#x8981;&#x5728;&#x5BC6;&#x7801;&#x4E4B;&#x4E0A;&#x518D;&#x52A0;&#x4E00;&#x5957;&#x5BC6;&#x7801;&#xFF0C;&#x867D;&#x7136;&#x7B80;&#x5355;&#x4F46;&#x4E5F;&#x5B89;&#x5168;&#x3002;
 
-&#x7A0B;&#x5E8F;&#x4E0D;&#x8003;&#x8651;&#x8D1F;&#x6570;&#x7684;&#x60C5;&#x51B5;&#xFF0C;&#x82E5;&#x6570;&#x5B57;&#x542B;&#x6709;0&#xFF0C;&#x5219;&#x9006;&#x5E8F;&#x5F62;&#x5F0F;&#x4E5F;&#x542B;&#x6709;0&#xFF0C;&#x5982;&#x8F93;&#x5165;&#x4E3A;100&#xFF0C;&#x5219;&#x8F93;&#x51FA;&#x4E3A;001
+
+
+&#x5047;&#x8BBE;&#x6E0A;&#x5B50;&#x539F;&#x6765;&#x4E00;&#x4E2A;BBS&#x4E0A;&#x7684;&#x5BC6;&#x7801;&#x4E3A;zvbo9441987,&#x4E3A;&#x4E86;&#x65B9;&#x4FBF;&#x8BB0;&#x5FC6;&#xFF0C;&#x4ED6;&#x901A;&#x8FC7;&#x4E00;&#x79CD;&#x7B97;&#x6CD5;&#x628A;&#x8FD9;&#x4E2A;&#x5BC6;&#x7801;&#x53D8;&#x6362;&#x6210;YUANzhi1987&#xFF0C;&#x8FD9;&#x4E2A;&#x5BC6;&#x7801;&#x662F;&#x4ED6;&#x7684;&#x540D;&#x5B57;&#x548C;&#x51FA;&#x751F;&#x5E74;&#x4EFD;&#xFF0C;&#x600E;&#x4E48;&#x5FD8;&#x90FD;&#x5FD8;&#x4E0D;&#x4E86;&#xFF0C;&#x800C;&#x4E14;&#x53EF;&#x4EE5;&#x660E;&#x76EE;&#x5F20;&#x80C6;&#x5730;&#x653E;&#x5728;&#x663E;&#x773C;&#x7684;&#x5730;&#x65B9;&#x800C;&#x4E0D;&#x88AB;&#x522B;&#x4EBA;&#x77E5;&#x9053;&#x771F;&#x6B63;&#x7684;&#x5BC6;&#x7801;&#x3002;
+
+
+
+&#x4ED6;&#x662F;&#x8FD9;&#x4E48;&#x53D8;&#x6362;&#x7684;&#xFF0C;&#x5927;&#x5BB6;&#x90FD;&#x77E5;&#x9053;&#x624B;&#x673A;&#x4E0A;&#x7684;&#x5B57;&#x6BCD;&#xFF1A; 1--1&#xFF0C; abc--2, def--3, ghi--4, jkl--5, mno--6, pqrs--7, tuv--8 wxyz--9, 0--0,&#x5C31;&#x8FD9;&#x4E48;&#x7B80;&#x5355;&#xFF0C;&#x6E0A;&#x5B50;&#x628A;&#x5BC6;&#x7801;&#x4E2D;&#x51FA;&#x73B0;&#x7684;&#x5C0F;&#x5199;&#x5B57;&#x6BCD;&#x90FD;&#x53D8;&#x6210;&#x5BF9;&#x5E94;&#x7684;&#x6570;&#x5B57;&#xFF0C;&#x6570;&#x5B57;&#x548C;&#x5176;&#x4ED6;&#x7684;&#x7B26;&#x53F7;&#x90FD;&#x4E0D;&#x505A;&#x53D8;&#x6362;&#xFF0C;
+
+
+
+&#x58F0;&#x660E;&#xFF1A;&#x5BC6;&#x7801;&#x4E2D;&#x6CA1;&#x6709;&#x7A7A;&#x683C;&#xFF0C;&#x800C;&#x5BC6;&#x7801;&#x4E2D;&#x51FA;&#x73B0;&#x7684;&#x5927;&#x5199;&#x5B57;&#x6BCD;&#x5219;&#x53D8;&#x6210;&#x5C0F;&#x5199;&#x4E4B;&#x540E;&#x5F80;&#x540E;&#x79FB;&#x4E00;&#x4F4D;&#xFF0C;&#x5982;&#xFF1A;X&#xFF0C;&#x5148;&#x53D8;&#x6210;&#x5C0F;&#x5199;&#xFF0C;&#x518D;&#x5F80;&#x540E;&#x79FB;&#x4E00;&#x4F4D;&#xFF0C;&#x4E0D;&#x5C31;&#x662F;y&#x4E86;&#x561B;&#xFF0C;&#x7B80;&#x5355;&#x5427;&#x3002;&#x8BB0;&#x4F4F;&#xFF0C;z&#x5F80;&#x540E;&#x79FB;&#x662F;a&#x54E6;&#x3002;
 </code></pre><h3 id="difficulty-easy"><a name="difficulty-easy" class="anchor-navigation-ex-anchor" href="#difficulty-easy"><i class="fa fa-link" aria-hidden="true"></i></a>[Difficulty: EASY]</h3>
 <h3 id="problem-requirnment"><a name="problem-requirnment" class="anchor-navigation-ex-anchor" href="#problem-requirnment"><i class="fa fa-link" aria-hidden="true"></i></a>[Problem Requirnment]</h3>
 <pre class="language-"><code>&#x8F93;&#x5165;&#x63CF;&#x8FF0;:
-&#x8F93;&#x5165;&#x4E00;&#x4E2A;int&#x6574;&#x6570;
+
+&#x8F93;&#x5165;&#x5305;&#x62EC;&#x591A;&#x4E2A;&#x6D4B;&#x8BD5;&#x6570;&#x636E;&#x3002;&#x8F93;&#x5165;&#x662F;&#x4E00;&#x4E2A;&#x660E;&#x6587;&#xFF0C;&#x5BC6;&#x7801;&#x957F;&#x5EA6;&#x4E0D;&#x8D85;&#x8FC7;100&#x4E2A;&#x5B57;&#x7B26;&#xFF0C;&#x8F93;&#x5165;&#x76F4;&#x5230;&#x6587;&#x4EF6;&#x7ED3;&#x5C3E;
 
 &#x8F93;&#x51FA;&#x63CF;&#x8FF0;:
-&#x5C06;&#x8FD9;&#x4E2A;&#x6574;&#x6570;&#x4EE5;&#x5B57;&#x7B26;&#x4E32;&#x7684;&#x5F62;&#x5F0F;&#x9006;&#x5E8F;&#x8F93;&#x51FA;
+
+&#x8F93;&#x51FA;&#x6E0A;&#x5B50;&#x771F;&#x6B63;&#x7684;&#x5BC6;&#x6587;
 </code></pre><h3 id="design"><a name="design" class="anchor-navigation-ex-anchor" href="#design"><i class="fa fa-link" aria-hidden="true"></i></a>[Design]</h3>
-<pre class="language-"><code>1. &#x5C06;&#x8F93;&#x5165;&#x7684;&#x6574;&#x6570;&#x4EE5;&#x5B57;&#x7B26;&#x4E32;&#x5F62;&#x5F0F;&#x83B7;&#x53D6;&#xFF1B;
-2. &#x5012;&#x5E8F;&#x904D;&#x5386;&#x6253;&#x5370;&#xFF1B;
+<pre class="language-"><code>&#x8FD9;&#x9898;&#x6709;&#x4E00;&#x4E2A;&#x8BA8;&#x5DE7;&#x7684;&#x65B9;&#x6CD5;&#xFF0C;&#x6BCF;&#x4E2A;&#x5B57;&#x7B26;&#x5BF9;&#x5E94;&#x7684;&#x52A0;&#x5BC6;&#x540E;&#x7B26;&#x53F7;&#x90FD;&#x662F;&#x56FA;&#x5B9A;&#x7684;&#xFF0C;&#x6240;&#x4EE5;&#x505A;&#x4E00;&#x4E2A;HashTable&#x53BB;&#x94FE;&#x63A5;&#x5BF9;&#x5E94;&#x5173;&#x7CFB;&#x5373;&#x53EF;&#xFF1B;
 </code></pre><h3 id="note"><a name="note" class="anchor-navigation-ex-anchor" href="#note"><i class="fa fa-link" aria-hidden="true"></i></a>[Note]</h3>
-<pre class="language-"><code>&#x5012;&#x5E8F;&#x904D;&#x5386;&#x6CE8;&#x610F;i&#x904D;&#x5386;&#x8303;&#x56F4;&#xFF1B;
+<pre class="language-"><code>None;
 </code></pre><h3 id="codewar"><a name="codewar" class="anchor-navigation-ex-anchor" href="#codewar"><i class="fa fa-link" aria-hidden="true"></i></a>[CodeWar]</h3>
 <pre class="language-"><code class="lang-java">
 <span class="token keyword">import</span> <span class="token namespace">java<span class="token punctuation">.</span>util</span><span class="token punctuation">.</span>*<span class="token punctuation">;</span>
 <span class="token keyword">import</span> <span class="token namespace">java<span class="token punctuation">.</span>io</span><span class="token punctuation">.</span>*<span class="token punctuation">;</span>
 
-<span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">Main</span> <span class="token punctuation">{</span>
+<span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">Main</span><span class="token punctuation">{</span>
     <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token class-name">String</span><span class="token punctuation">[</span><span class="token punctuation">]</span> args<span class="token punctuation">)</span> <span class="token punctuation">{</span>
         <span class="token class-name">Scanner</span> scanner <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Scanner</span><span class="token punctuation">(</span><span class="token class-name">System</span><span class="token punctuation">.</span>in<span class="token punctuation">)</span><span class="token punctuation">;</span>
         <span class="token keyword">while</span> <span class="token punctuation">(</span>scanner<span class="token punctuation">.</span><span class="token function">hasNext</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-            <span class="token function">printReversly</span><span class="token punctuation">(</span>scanner<span class="token punctuation">.</span><span class="token function">nextLine</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            <span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token function">decodePassword</span><span class="token punctuation">(</span>scanner<span class="token punctuation">.</span><span class="token function">nextLine</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
         <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span> 
+    <span class="token punctuation">}</span>
 
-    <span class="token comment">// print a string reversly</span>
-    <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">printReversly</span><span class="token punctuation">(</span><span class="token class-name">String</span> str<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token class-name">String</span> res <span class="token operator">=</span> <span class="token string">&quot;&quot;</span><span class="token punctuation">;</span>
-        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> str<span class="token punctuation">.</span><span class="token function">length</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">;</span> i <span class="token operator">&gt;=</span> <span class="token number">0</span><span class="token punctuation">;</span> i<span class="token operator">--</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-            res <span class="token operator">+=</span> str<span class="token punctuation">.</span><span class="token function">charAt</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token class-name">String</span> decodePassword <span class="token punctuation">(</span><span class="token class-name">String</span> str<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token class-name">Map</span><span class="token generics"><span class="token punctuation">&lt;</span><span class="token class-name">Character</span><span class="token punctuation">,</span> <span class="token class-name">Character</span><span class="token punctuation">&gt;</span></span> lowerCaseMap <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">HashMap</span><span class="token generics"><span class="token punctuation">&lt;</span><span class="token class-name">Character</span><span class="token punctuation">,</span> <span class="token class-name">Character</span><span class="token punctuation">&gt;</span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token keyword">char</span><span class="token punctuation">[</span><span class="token punctuation">]</span> charArray <span class="token operator">=</span> str<span class="token punctuation">.</span><span class="token function">toCharArray</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;a&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;2&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;b&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;2&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;c&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;2&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;d&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;3&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;e&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;3&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;f&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;3&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;g&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;4&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;h&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;4&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;i&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;4&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;j&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;5&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;k&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;5&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;l&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;5&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;m&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;6&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;n&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;6&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;o&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;6&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;p&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;7&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;q&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;7&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;r&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;7&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;s&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;7&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;t&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;8&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;u&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;8&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;v&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;8&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;w&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;9&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;x&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;9&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;y&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;9&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        lowerCaseMap<span class="token punctuation">.</span><span class="token function">put</span><span class="token punctuation">(</span><span class="token string">&apos;z&apos;</span><span class="token punctuation">,</span> <span class="token string">&apos;9&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> charArray<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+            <span class="token keyword">char</span> curChar <span class="token operator">=</span> charArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">;</span>
+
+            <span class="token comment">// lowercase char</span>
+            <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token class-name">Character</span><span class="token punctuation">.</span><span class="token function">isLowerCase</span><span class="token punctuation">(</span>curChar<span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+                charArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> lowerCaseMap<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>curChar<span class="token punctuation">)</span><span class="token punctuation">;</span>
+            <span class="token punctuation">}</span>
+            <span class="token comment">// uppercase char</span>
+            <span class="token keyword">else</span> <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token class-name">Character</span><span class="token punctuation">.</span><span class="token function">isUpperCase</span><span class="token punctuation">(</span>curChar<span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+                charArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token class-name">Character</span><span class="token punctuation">.</span><span class="token function">toLowerCase</span><span class="token punctuation">(</span>curChar<span class="token punctuation">)</span><span class="token punctuation">;</span>
+                <span class="token keyword">int</span> offset <span class="token operator">=</span> charArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">-</span> <span class="token string">&apos;a&apos;</span><span class="token punctuation">;</span>
+                <span class="token keyword">if</span> <span class="token punctuation">(</span>offset <span class="token operator">&lt;</span> <span class="token number">25</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+                    charArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token operator">++</span><span class="token punctuation">;</span>
+                <span class="token punctuation">}</span>
+                <span class="token keyword">else</span> <span class="token punctuation">{</span>
+                    charArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token string">&apos;a&apos;</span><span class="token punctuation">;</span>
+                <span class="token punctuation">}</span>
+            <span class="token punctuation">}</span>
+            <span class="token comment">// number &amp; other signs</span>
+            <span class="token keyword">else</span> <span class="token punctuation">{</span>
+                <span class="token keyword">continue</span><span class="token punctuation">;</span>
+            <span class="token punctuation">}</span>
         <span class="token punctuation">}</span>
-        <span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span>res<span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token class-name">String</span> res <span class="token operator">=</span> <span class="token string">&quot;&quot;</span><span class="token punctuation">;</span>
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> charArray<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+            res<span class="token operator">+=</span>charArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+        <span class="token keyword">return</span> res<span class="token punctuation">;</span>
     <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
 </code></pre>
 <h3 id="testing"><a name="testing" class="anchor-navigation-ex-anchor" href="#testing"><i class="fa fa-link" aria-hidden="true"></i></a>[Testing]</h3>
 <pre class="language-"><code>
-&#x793A;&#x4F8B;1
 &#x8F93;&#x5165;
 
-1516000
+YUANzhi1987
 
 &#x8F93;&#x51FA;
 
-0006151
+zvbo9441987
 </code></pre><footer class="page-footer"><span class="copyright">Copyright &#xA9; sparklscn.com 2019 all right reserved&#xFF0C;powered by Gitbook</span><span class="footer-modification">Last update&#xFF1A;
-2019-09-17 09:18:30
+2019-09-17 10:24:27
 </span></footer> <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/app.klipse.tech/css/codemirror.css"> <script>     window.klipse_settings = {         selector: ".language-klipse, .lang-eval-clojure",         selector_eval_js: ".lang-eval-js",         selector_eval_python_client: ".lang-eval-python",         selector_eval_php: ".lang-eval-php",         selector_eval_scheme: ".lang-eval-scheme",         selector_eval_ruby: ".lang-eval-ruby",         selector_reagent: ".lang-reagent",        selector_google_charts: ".lang-google-chart",        selector_es2017: ".lang-eval-es2017",        selector_jsx: ".lang-eval-jsx",        selector_transpile_jsx: ".lang-transpile-jsx",        selector_render_jsx: ".lang-render-jsx",        selector_react: ".lang-react",        selector_eval_markdown: ".lang-render-markdown",        selector_eval_lambdaway: ".lang-render-lambdaway",        selector_eval_cpp: ".lang-eval-cpp",        selector_eval_html: ".lang-render-html",        selector_sql: ".lang-eval-sql",        selector_brainfuck: "lang-eval-brainfuck",        selector_js: ".lang-transpile-cljs"    }; </script> <script src="https://storage.googleapis.com/app.klipse.tech/plugin/js/klipse_plugin.js"></script>
                                 
                                 </section>
@@ -1262,12 +1322,12 @@
 
             
                 
-                <a href="../10/" class="navigation navigation-prev " aria-label="Previous page: 字符个数统计">
+                <a href="../16/" class="navigation navigation-prev " aria-label="Previous page: 密码验证合格程序">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../12/" class="navigation navigation-next " aria-label="Next page: 句子逆序">
+                <a href="../18/" class="navigation navigation-next " aria-label="Next page: 汽水瓶">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -1278,7 +1338,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"数字颠倒","level":"4.1.1.12","depth":3,"next":{"title":"句子逆序","level":"4.1.1.13","depth":3,"path":"collections/huawei/12/README.md","ref":"collections/huawei/12/README.md","articles":[]},"previous":{"title":"字符个数统计","level":"4.1.1.11","depth":3,"path":"collections/huawei/10/README.md","ref":"collections/huawei/10/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","-highlight","-livereload","search-plus@^0.0.11","simple-page-toc@^0.1.1","github@^2.0.0","github-buttons@2.1.0","edit-link@^2.0.2","disqus@^0.1.0","prism@^2.1.0","prism-themes@^0.0.2","advanced-emoji@^0.2.1","anchors@^0.7.1","include-codeblock@^3.0.2","ace@^0.3.2","emphasize@^1.1.0","katex@^1.1.3","splitter@^0.0.8","mermaid-gb3@2.1.0","tbfed-pagefooter@^0.0.1","expandable-chapters-small@^0.1.7","sectionx@^3.1.0","donate@^1.0.2","local-video@^1.0.1","sitemap-general@^0.1.1","anchor-navigation-ex@0.1.8","favicon@^0.0.2","todo@^0.1.3","3-ba@^0.9.0","terminal@^0.3.2","alerts@^0.2.0","include-csv@^0.1.0","puml@^1.0.1","musicxml@^1.0.2","klipse@^1.2.0","versions-select@^0.1.1","rss@^3.0.2","-sharing","sharing-plus@^0.0.2","graph@^0.1.0","chart@^0.2.0"],"root":".","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"Copyright © sparklscn.com 2019","modify_label":"Last update：","modify_format":"YYYY-MM-DD HH:mm:ss"},"prism":{"css":["prism-themes/themes/prism-base16-ateliersulphurpool.light.css"]},"include-csv":{},"disqus":{"useIdentifier":false,"shortName":"codewar"},"emphasize":{},"ace":{},"github":{"url":"https://github.com/sparklescn/codewar"},"puml":{},"simple-page-toc":{"maxDepth":3,"skipFirstH1":true},"todo":{},"splitter":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"versions-select":{"type":"branches"},"graph":{},"donate":{"alipay":"https://www.sparklescn.com/wp-content/uploads/2019/08/donate_alipay.jpg","alipayText":"AliPay","button":"Donate","title":"","wechat":"https://www.sparklescn.com/wp-content/uploads/2019/08/donate_wechat.jpg","wechatText":"WeChat"},"sitemap-general":{"prefix":"http://gitbook.sparklescn.com"},"katex":{},"fontsettings":{"theme":"white","family":"sans","size":2},"rss":{"categories":["gitbook"],"title":"The CodeWar","description":"Record the CodeWar","author":"Nathan Quan","feed_url":"http://gitbook.sparklescn.com/rss","site_url":"http://gitbook.sparklescn.com/","managingEditor":"https://www.sparklescn.com/login"},"musicxml":{},"sectionx":{"tag":"b"},"mermaid-gb3":{},"anchor-navigation-ex":{"isRewritePageTitle":false,"tocLevel1Icon":"fa fa-hand-o-right","tocLevel2Icon":"fa fa-hand-o-right","tocLevel3Icon":"fa fa-hand-o-right"},"favicon":{"shortcut":"favicon.ico","bookmark":"favicon.ico"},"prism-themes":{},"alerts":{},"github-buttons":{"repo":"sparklescn/codewar","types":["star"],"size":"small"},"3-ba":{"configuration":"auto","token":"ff100361cdce95dd4c8fb96b4009f7bc"},"expandable-chapters-small":{},"local-video":{},"klipse":{"myConfigKey":"it's the default value"},"versions":{"options":[{"value":"https://sparkles.gitbook.io/codewar/","text":"v1.0.0"}]},"advanced-emoji":{"embedEmojis":false},"include-codeblock":{"check":false,"edit":true,"fixlang":false,"lang":"","template":"ace","theme":"chrome","unindent":true},"sharing":{"qq":false,"all":["facebook","google","twitter","weibo","instapaper","linkedin","pocket","stumbleupon","qq","qzone"],"douban":false,"facebook":false,"weibo":true,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":false,"messenger":false,"line":false,"vk":false,"pocket":false,"google":true,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":true},"terminal":{"copyButtons":true,"fade":false,"style":"flat"},"edit-link":{"label":"Edit This Page","base":"https://github.com/sparklescn/codewar/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{},"chart":{"type":"c3"},"search-plus":{}},"theme":"default","author":"Nathan Quan","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"The CodeWar","language":"zh-hans","output.name":"site","links":{"sidebar":{"Home":"https://www.sparklescn.com"}},"gitbook":"3.2.3","description":"Record The CodeWar"},"file":{"path":"collections/huawei/11/README.md","mtime":"2019-09-17T16:18:30.894Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-09-17T17:37:48.419Z"},"basePath":"../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"简单密码","level":"4.1.1.18","depth":3,"next":{"title":"汽水瓶","level":"4.1.1.19","depth":3,"path":"collections/huawei/18/README.md","ref":"collections/huawei/18/README.md","articles":[]},"previous":{"title":"密码验证合格程序","level":"4.1.1.17","depth":3,"path":"collections/huawei/16/README.md","ref":"collections/huawei/16/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","-highlight","-livereload","search-plus@^0.0.11","simple-page-toc@^0.1.1","github@^2.0.0","github-buttons@2.1.0","edit-link@^2.0.2","disqus@^0.1.0","prism@^2.1.0","prism-themes@^0.0.2","advanced-emoji@^0.2.1","anchors@^0.7.1","include-codeblock@^3.0.2","ace@^0.3.2","emphasize@^1.1.0","katex@^1.1.3","splitter@^0.0.8","mermaid-gb3@2.1.0","tbfed-pagefooter@^0.0.1","expandable-chapters-small@^0.1.7","sectionx@^3.1.0","donate@^1.0.2","local-video@^1.0.1","sitemap-general@^0.1.1","anchor-navigation-ex@0.1.8","favicon@^0.0.2","todo@^0.1.3","3-ba@^0.9.0","terminal@^0.3.2","alerts@^0.2.0","include-csv@^0.1.0","puml@^1.0.1","musicxml@^1.0.2","klipse@^1.2.0","versions-select@^0.1.1","rss@^3.0.2","-sharing","sharing-plus@^0.0.2","graph@^0.1.0","chart@^0.2.0"],"root":".","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"Copyright © sparklscn.com 2019","modify_label":"Last update：","modify_format":"YYYY-MM-DD HH:mm:ss"},"prism":{"css":["prism-themes/themes/prism-base16-ateliersulphurpool.light.css"]},"include-csv":{},"disqus":{"useIdentifier":false,"shortName":"codewar"},"emphasize":{},"ace":{},"github":{"url":"https://github.com/sparklescn/codewar"},"puml":{},"simple-page-toc":{"maxDepth":3,"skipFirstH1":true},"todo":{},"splitter":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"versions-select":{"type":"branches"},"graph":{},"donate":{"alipay":"https://www.sparklescn.com/wp-content/uploads/2019/08/donate_alipay.jpg","alipayText":"AliPay","button":"Donate","title":"","wechat":"https://www.sparklescn.com/wp-content/uploads/2019/08/donate_wechat.jpg","wechatText":"WeChat"},"sitemap-general":{"prefix":"http://gitbook.sparklescn.com"},"katex":{},"fontsettings":{"theme":"white","family":"sans","size":2},"rss":{"categories":["gitbook"],"title":"The CodeWar","description":"Record the CodeWar","author":"Nathan Quan","feed_url":"http://gitbook.sparklescn.com/rss","site_url":"http://gitbook.sparklescn.com/","managingEditor":"https://www.sparklescn.com/login"},"musicxml":{},"sectionx":{"tag":"b"},"mermaid-gb3":{},"anchor-navigation-ex":{"isRewritePageTitle":false,"tocLevel1Icon":"fa fa-hand-o-right","tocLevel2Icon":"fa fa-hand-o-right","tocLevel3Icon":"fa fa-hand-o-right"},"favicon":{"shortcut":"favicon.ico","bookmark":"favicon.ico"},"prism-themes":{},"alerts":{},"github-buttons":{"repo":"sparklescn/codewar","types":["star"],"size":"small"},"3-ba":{"configuration":"auto","token":"ff100361cdce95dd4c8fb96b4009f7bc"},"expandable-chapters-small":{},"local-video":{},"klipse":{"myConfigKey":"it's the default value"},"versions":{"options":[{"value":"https://sparkles.gitbook.io/codewar/","text":"v1.0.0"}]},"advanced-emoji":{"embedEmojis":false},"include-codeblock":{"check":false,"edit":true,"fixlang":false,"lang":"","template":"ace","theme":"chrome","unindent":true},"sharing":{"qq":false,"all":["facebook","google","twitter","weibo","instapaper","linkedin","pocket","stumbleupon","qq","qzone"],"douban":false,"facebook":false,"weibo":true,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":false,"messenger":false,"line":false,"vk":false,"pocket":false,"google":true,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":true},"terminal":{"copyButtons":true,"fade":false,"style":"flat"},"edit-link":{"label":"Edit This Page","base":"https://github.com/sparklescn/codewar/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{},"chart":{"type":"c3"},"search-plus":{}},"theme":"default","author":"Nathan Quan","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"The CodeWar","language":"zh-hans","output.name":"site","links":{"sidebar":{"Home":"https://www.sparklescn.com"}},"gitbook":"3.2.3","description":"Record The CodeWar"},"file":{"path":"collections/huawei/17/README.md","mtime":"2019-09-17T17:24:27.756Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-09-17T17:37:48.419Z"},"basePath":"../../..","book":{"language":""}});
         });
     </script>
 </div>
