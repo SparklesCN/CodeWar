@@ -53,10 +53,10 @@
 		* [字串的连接最长路径查找](collections/huawei/13/README.md)
 		* [求int型数据在内存中存储时1的个数](collections/huawei/14/README.md)
 		* [坐标移动](collections/huawei/15/README.md)
-		* [](collections/huawei/16/README.md)
-		* [](collections/huawei/17/README.md)
-		* [](collections/huawei/18/README.md)
-		* [](collections/huawei/19/README.md)
+		* [密码验证合格程序](collections/huawei/16/README.md)
+		* [简单密码](collections/huawei/17/README.md)
+		* [汽水瓶](collections/huawei/18/README.md)
+		* [删除字符串中出现次数最少的字符](collections/huawei/19/README.md)
 		* [](collections/huawei/20/README.md)
 
 ### Basic Knowledge
