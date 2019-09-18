@@ -57,7 +57,19 @@
 		* [简单密码](collections/huawei/17/README.md)
 		* [汽水瓶](collections/huawei/18/README.md)
 		* [删除字符串中出现次数最少的字符](collections/huawei/19/README.md)
-		* [](collections/huawei/20/README.md)
+		* [*购物单*](collections/huawei/21/README.md)
+		* [*识别有效的IP地址和掩码并进行分类统计*](collections/huawei/22/README.md)
+		* [*简单错误记录*](collections/huawei/23/README.md)
+		* [*合唱队*](collections/huawei/24/README.md)
+		* [数据分类处理](collections/huawei/25/README.md)
+		* [字符串排序](collections/huawei/26/README.md)
+		* [查找兄弟单词](collections/huawei/27/README.md)
+		* [*素数伴侣*](collections/huawei/28/README.md)
+		* [字符串加解密](collections/huawei/29/README.md)
+		* [*字符串合并处理*](collections/huawei/30/README.md)
+		* [*【中级】单词倒排*](collections/huawei/31/README.md)
+		* [*【中级】字符串运用-密码截取*](collections/huawei/32/README.md)
+		* [*整数与IP地址间的转换*](collections/huawei/33/README.md)
 
 ### Basic Knowledge
 
