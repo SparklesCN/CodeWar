@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Sep 2019 17:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2019 22:40:20 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -327,6 +327,98 @@ Integer.parseInt("A", 16); -> 10]]></description>
 String replaceString=s1.replace('a','e');//replaces all occurrences of 'a' to 'e']]></description>
             <link>http://gitbook.sparklescn.com/collections/huawei/19/README.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/19/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/21/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/21/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/22/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/22/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/23/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/23/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/24/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/24/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[数据分类处理]]></title>
+            <description><![CDATA[信息社会，有海量的数据需要分析处理，比如公安局分析身份证号码、 QQ 用户、手机号码、银行帐号等信息及活动记录。
+采集输入大数据和分类规则，通过大数据分类处理程序，将大数据分类输出。]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/25/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/25/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[字符串排序]]></title>
+            <description><![CDATA[利用ASCII码辨别非字母字符；]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/26/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/26/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/27/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/27/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/28/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/28/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/29/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/29/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/30/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/30/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/31/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/31/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/32/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/32/README.html</guid>
+            <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[TODO]]></description>
+            <link>http://gitbook.sparklescn.com/collections/huawei/33/README.html</link>
+            <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/33/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
