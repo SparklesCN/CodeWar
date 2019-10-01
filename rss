@@ -4,7 +4,7 @@
         <description><![CDATA[Record the CodeWar]]></description>
         <link>http://gitbook.sparklescn.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Sep 2019 22:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2019 18:38:45 GMT</lastBuildDate>
         <atom:link href="http://gitbook.sparklescn.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Nathan Quan]]></author>
         <managingEditor><![CDATA[https://www.sparklescn.com/login]]></managingEditor>
@@ -373,8 +373,11 @@ String replaceString=s1.replace('a','e');//replaces all occurrences of 'a' to 'e
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[TODO]]></description>
+            <title><![CDATA[查找兄弟单词]]></title>
+            <description><![CDATA[输入描述:
+先输入字典中单词的个数n，再输入n个单词作为字典单词。
+再输入一个单词，查找其在字典中兄弟单词的个数m
+再输入数字k]]></description>
             <link>http://gitbook.sparklescn.com/collections/huawei/27/README.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/27/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
@@ -387,8 +390,8 @@ String replaceString=s1.replace('a','e');//replaces all occurrences of 'a' to 'e
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[TODO]]></description>
+            <title><![CDATA[字符串加解密]]></title>
+            <description><![CDATA[接口描述：]]></description>
             <link>http://gitbook.sparklescn.com/collections/huawei/29/README.html</link>
             <guid isPermaLink="true">http://gitbook.sparklescn.com/collections/huawei/29/README.html</guid>
             <dc:creator><![CDATA[Nathan Quan]]></dc:creator>
