@@ -1,7 +1,7 @@
 NOTE = "None Note"
 publish:
 	git add .
-	git commit -m NOTE
+	git commit -m "$(NOTE)"
 	git push
 	gitbook build
 	git checkout gh-pages
